@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roxana-solhjoo
-- 👀 I’m interested in software developmen  
+- 👀 I’m interested in software development 
 - 🌱 I’m currently learning IT for Business Data Analysis
 - 💞️ I’m looking to collaborate on backened development, data analysis 
 - 📫 How to reach me Email:roxanslj44@gmail.com 
